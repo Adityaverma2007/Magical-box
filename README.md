@@ -1,1 +1,1 @@
-# Magical-box
+# Box Class
